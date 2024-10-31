@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LISTA_MATRIZES/1.0.0": {
+        "runtime": {
+          "LISTA_MATRIZES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LISTA_MATRIZES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

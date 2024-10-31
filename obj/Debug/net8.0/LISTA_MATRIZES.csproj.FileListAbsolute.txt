@@ -1,0 +1,14 @@
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\bin\Debug\net8.0\LISTA_MATRIZES.exe
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\bin\Debug\net8.0\LISTA_MATRIZES.deps.json
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\bin\Debug\net8.0\LISTA_MATRIZES.runtimeconfig.json
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\bin\Debug\net8.0\LISTA_MATRIZES.dll
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\bin\Debug\net8.0\LISTA_MATRIZES.pdb
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.AssemblyInfoInputs.cache
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.AssemblyInfo.cs
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.csproj.CoreCompileInputs.cache
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.dll
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\refint\LISTA_MATRIZES.dll
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.pdb
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\LISTA_MATRIZES.genruntimeconfig.cache
+C:\Users\15832318625\source\repos\LISTA_MATRIZES\LISTA_MATRIZES\obj\Debug\net8.0\ref\LISTA_MATRIZES.dll
