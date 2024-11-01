@@ -27,7 +27,7 @@ using Biblioteca_Matriz;
             }
         }
 
-    static void Main() 
+        static void Main() 
         {
             int cols, linhas;
             Console.WriteLine("Quantidades de linhas e colunas");
