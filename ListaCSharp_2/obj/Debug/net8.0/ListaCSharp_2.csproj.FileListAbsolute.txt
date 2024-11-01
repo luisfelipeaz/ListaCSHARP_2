@@ -1,0 +1,14 @@
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.AssemblyInfoInputs.cache
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.AssemblyInfo.cs
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.csproj.CoreCompileInputs.cache
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\bin\Debug\net8.0\ListaCSharp_2.exe
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\bin\Debug\net8.0\ListaCSharp_2.deps.json
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\bin\Debug\net8.0\ListaCSharp_2.runtimeconfig.json
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\bin\Debug\net8.0\ListaCSharp_2.dll
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\bin\Debug\net8.0\ListaCSharp_2.pdb
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.dll
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\refint\ListaCSharp_2.dll
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.pdb
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ListaCSharp_2.genruntimeconfig.cache
+C:\Users\azeve\source\repos\ListaCSharp_2\ListaCSharp_2\obj\Debug\net8.0\ref\ListaCSharp_2.dll
