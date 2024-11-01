@@ -3,27 +3,27 @@ using Biblioteca_Matriz;
 
     class Ex_4_e_5
     {
-        static void MostrarDiagonalPrincipal(int[,] mat)
-        {
-            int linhas = mat.GetLength(0);
-            int cols = mat.GetLength(1);   
-
-            Console.WriteLine("*** ELEMENTOS DA DIAGONAL PRINCIPAL ***");
-            for (int i = 0; i < Math.Min(linhas, cols); i++)
-            {
-                Console.WriteLine($"Elemento na posição [{i}, {i}] = {mat[i, i]}");
-            }
-        }
+          static void MostrarDiagonalPrincipal(int[,] mat)
+         {
+ 
+          int linhas = mat.GetLength(0);
+          for (int i = 0; i < linhas; i++)
+              Console.Write($"{mat[i, i]}|");
+    
+          Console.WriteLine();
+         }
         static void MostrarDiagonalSecundaria(int[,] mat)
         {
             int linhas = mat.GetLength(0); 
-            int cols = mat.GetLength(1);   
-
+            int cols = mat.GetLength(1);
+            int j = cols - 1;
+        
             Console.WriteLine("*** ELEMENTOS DA DIAGONAL SECUNDÁRIA ***");
-            for (int i = 0; i < linhas; i++)
+            for (int i = 0; i < linhas; i++,j--)
             {
-                
-                Console.WriteLine($"Elemento na posição [{i}, {cols - 1 - i}] = {mat[i, cols - 1 - i]}");
+               Console.WriteLine($"{mat[i,j]}|");
+        
+            Console.WriteLine();
             }
         }
 
